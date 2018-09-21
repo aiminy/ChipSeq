@@ -6248,6 +6248,7 @@ getSummitSequence<-function(dir.name,input.file.pattern,genome,out.dir.name){
   #names(re.out)<-sample.name
   
    test  
+   test
   #return(re.out)
 }
 
